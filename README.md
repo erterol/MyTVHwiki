@@ -1,8 +1,8 @@
 # MyTVHwiki
 
-## Hierarchy of reference numbers ##
+## Hierarchy of reference numbers
 
-### Property Reference number ###
+### Property Reference number
 
 They are made of the `scheme reference` and `unit reference`. For example: BARR and 001 or 002, making `BARR001`
 This data sits in Universal Housing/Contact Manager, and is consumed by MyTVH.
