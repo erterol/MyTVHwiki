@@ -31,3 +31,10 @@ From an MVP point of view, the thinnest piece we think we can slice this for a s
 
 The filtering, adding/removing units is de-scoped at the moment. So is enriching the list of units data through more granular data from Keystone.
 
+### 2. Using Gov.uk Notify for sending bulk SMS to residents ###
+
+We need a service that sends SMS messages to residents based on the phone number information and the text that will be composed by the agent in the first instance.
+
+Notify is a mature common component developed by Government Digital Service, offered to public sector organisations. It is well looked after by GDS, continuously iterated, and plugs in well with Ruby apps.
+
+We will be using Notify for this, as the first 25000 sms are free to use, and the subsequent pricing is attractive. 
