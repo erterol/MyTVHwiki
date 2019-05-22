@@ -25,11 +25,20 @@ Based on the mock-ups provided by the MTVH team, the feature is supposed to:
 From an MVP point of view, the thinnest piece we think we can slice this for a sprint work is to do:
 
 - agent starting the process from a repair
-- agent sees a list of units returned
+- agent sees a list of phone numbers attached to the units for that repair
 - agent composes the message
 - agent sends the SMS
 
 The filtering, adding/removing units is de-scoped at the moment. So is enriching the list of units data through more granular data from Keystone.
+
+### UPDATE 22 May ###
+
+We had to re-scope the MVP given the time that's left in the Sprint. In order for us to hit the same outcome and value to the end users (being able to send an SMS to a list of recipients attached to a repair), the following are in scope:
+
+- agent starting the process from a repair
+- agent sees a list of phone numbers attached to the units for that repair
+
+The composition of the SMS and the sending of it will be handled by Notify for the time being.
 
 ### 2. Using Gov.uk Notify for sending bulk SMS to residents ###
 
