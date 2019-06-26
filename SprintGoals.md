@@ -4,11 +4,13 @@
 
 
 ###Sprint 4:
-- TBC
-
+- Send the first SMS messages to customers via Notify. 
+- Be unblocked and have a plan for migration to Stripe's PaymentIntents API. If possible, start using the API. 
+- Be able to pull data out of Northgate and be ready to try out CDC.
+- Deliver a piece of visual rebranding.
 
 ###Sprint 5:
 - Replace Stripe's Charges API with their PaymentsIntent API, for immediate (same day) payments, without the 3d secure enforced. 
-- Also check if the output of the new API is compatible with the reconcilitation process MTVH currently has (Kavita as the SME)
-- Continue with thew rebranding (style guides, body content, move strings from templates in locale files)
-- Help Dalmatian staging get up-to-date with legacy staging
+- Also check if the output of the new API is compatible with the reconcilitation process MTVH currently has (Kavita as the SME).
+- Continue with thew rebranding (accessibility (colours), style guides, body content, move strings from templates in locale files).
+- Onboard the team to Dalmatian and deploy latest MyTVH code to this environment.
