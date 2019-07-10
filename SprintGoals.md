@@ -14,3 +14,10 @@
 - Also check if the output of the new API is compatible with the reconcilitation process MTVH currently has (Kavita as the SME).
 - Continue with thew rebranding (accessibility (colours), style guides, body content, move strings from templates in locale files).
 - Onboard the team to Dalmatian and deploy latest MyTVH code to this environment.
+
+###Sprint 6:
+- Iterate on PaymentsIntent with 3dSecure enabled (immediate payments only)
+- Upgrade Stripe's API version and check its compatibility with the reconciliation process
+- Dalmatian deployment training
+- Build check your answers/review your message stage for bulk-SMS
+- Iterate style guide, accessibility colours and brand consistency
