@@ -21,3 +21,7 @@
 - Dalmatian deployment training
 - Build check your answers/review your message stage for bulk-SMS
 - Iterate style guide, accessibility colours and brand consistency
+
+###Sprint 7:
+- Deploy 3D Secure 2 authorisation for immediate and future payments, including failure handling.
+- Implement styleguide on breadcrumbs and nagivation
